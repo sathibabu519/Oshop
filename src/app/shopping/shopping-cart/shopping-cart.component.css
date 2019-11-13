@@ -1,0 +1,23 @@
+.thumbnail{
+    width:  80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover;
+}
+
+.btn-light {
+    color: #212528;
+    background-color: lightgray;
+    border-color: #f8f9fa;
+}
+
+.checkout-btn {
+    right: 0px;
+    position: absolute;
+    bottom: 0;
+}
+.table {
+    width: 100%;
+    margin-bottom: 4rem;
+    background-color: transparent;
+}
